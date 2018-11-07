@@ -2,8 +2,8 @@
 
 ## Решение
 1. [Паттерн с интерфейсом](https://github.com/ChristinaGolovach/ObserverPatternDemo-1/tree/master/ObserverPatternDemo)
-2. [Паттерн с событием](https://github.com/ChristinaGolovach/ObserverPatternDemo-1/tree/master/ObserverPatternWithEvent) 
-3. [Имитация часов](https://github.com/ChristinaGolovach/NET1.A.2018.Golovcah.12-13/tree/master/TimerImitationLogic) 
+2. [Паттерн с событием](https://github.com/ChristinaGolovach/ObserverPatternDemo-1/tree/master/ObserverPatternWithEvent) (нет комментарий)
+3. [Имитация часов](https://github.com/ChristinaGolovach/NET1.A.2018.Golovcah.12-13/tree/master/TimerImitationLogic) (нет комментарий)
 
 ## Задачи
 
