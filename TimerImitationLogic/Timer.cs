@@ -21,8 +21,6 @@ namespace TimerImitationLogic
                 Thread.Sleep(1000);
 
                 currentTime = currentTime.AddSeconds(-1);
-
-                Console.WriteLine(currentTime);
             }
 
             OnNewMessage(new MessageInfoEventArgs(message));
